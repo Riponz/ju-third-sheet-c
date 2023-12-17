@@ -1,0 +1,10 @@
+1 bob 1234
+2 mob 1234
+3 rob 1234
+4 kob 1234
+5 dop 1234
+6 aop 1234
+7 aap 1234
+8 modi 1234
+9 rahul 1234
+10 janta 1234
